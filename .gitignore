@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Custom
+*.db
+*.ipch
+*.sln
+*.tlog
+*.lastbuildstate
+*.idb
+*.vcxproj
+*.filters
+*.user
