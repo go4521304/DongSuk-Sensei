@@ -41,3 +41,4 @@
 *.vcxproj
 *.filters
 *.user
+*.opendb
