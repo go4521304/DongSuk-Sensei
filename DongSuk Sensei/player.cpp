@@ -1,6 +1,3 @@
 #include "globalhdr.h"
+#include "player.h"
 
-int main()
-{
-	
-}

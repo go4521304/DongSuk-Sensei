@@ -1,6 +1,2 @@
 #include "globalhdr.h"
-
-int main()
-{
-	
-}
+#include "monster.h"
