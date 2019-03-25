@@ -3,20 +3,14 @@
 
 class Entity {
 protected:
-	string name_;
-	int hp_;
-	int str_;
-	int def_;
+	string m_name;
+	int m_hp;
+	int m_str;
+	int m_def;
 
 public:
 	Entity();
 	Entity(string, int, int, int);
-
-	// Setter
-	void SetName(string);
-	void SetHp(int);
-	void SetStr(int);
-	void SetDef(int);
 
 	/**********************************************************/
 
